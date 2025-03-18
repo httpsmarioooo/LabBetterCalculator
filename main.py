@@ -59,11 +59,13 @@ def main():
 
             if opcion == "1":
                 numeros = [4, -5, 6.7]
-                addmultiplenumbers(numeros)
+                resultado = addmultiplenumbers(numeros)
+                print(f"El resultado es: {resultado}")
 
             elif opcion == "2":
                 numeros = [4, -5, 6.7]
-                multiplymultiplenumbers(numeros)
+                resultado = multiplymultiplenumbers(numeros)
+                print(f"El resultado es: {resultado}")
 
             elif opcion == "3":
                 num = float(input("Ingrese un número: "))
