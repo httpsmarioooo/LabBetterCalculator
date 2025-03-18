@@ -25,3 +25,7 @@ Automatic grading will be scored out of 8, and will test the functionality of th
 **Note:** Use the tests! There's nothing wrong with running the tests until they pass. It's not cheating!
 
 **Note:** If you get stuck getting one function to work, try working on a different one. You might find you can solve later functions more quickly than earlier ones.
+
+
+Complete: 
+![alt text](image-1.png)
